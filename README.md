@@ -20,3 +20,6 @@ E o pacote `main` espera a existência de uma função `main()`.
 
 - go run main.go
 - go build
+- ./wwg0
+
+Para executar o código podemos só usar o comando `run` do Go que faz um build numa pasta temporária e mostra pra você o resultado. Ou você pode criar o executável do seu pacote com o comando `build`.
