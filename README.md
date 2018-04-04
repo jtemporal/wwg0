@@ -27,3 +27,5 @@ Para executar o código podemos só usar o comando `run` do Go que faz um build 
 ## Variáveis
 
 - `nome`
+
+Pra declarar e instanciar variáveis usamos o `:=`.
